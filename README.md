@@ -1,2 +1,4 @@
 # Dungeon and Ruins
  
+This mod adds a new type of object to RimWorld called a "Quest Finder", which allows the player to search for quests to complete. The player can interact with the Quest Finder by clicking a "Search" button, which displays a list of available quests to choose from. The Quest Finder will only allow the search for quests that meet certain criteria, such as requiring a certain number of linked facilities and specific types of facilities (if specified in the requiredLinkable field) and not having been completed before (if the onlyOnce field is true). In order to search for a new quest, a pawn must work for a certain number of days. When a quest is found, the player will be notified and sent a letter to inform them that the quest is available.
+For further information take a loot at the wiki: https://github.com/Accurexx/Dungeons-and-Ruins/wiki
