@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Dungeons and Ruins</name>
+  <name>Treasure Hunter (MO Beta)</name>
   <author>Evil Eye Guy</author>
-  <url><!--URL--></url>
-  <description>This mod adds a new type of object to RimWorld called a "Quest Finder", which allows the player to search for quests to complete. The player can interact with the Quest Finder by clicking a "Search" button, which displays a list of available quests to choose from. The Quest Finder will only allow the search for quests that meet certain criteria, such as requiring a certain number of linked facilities and specific types of facilities (if specified in the requiredLinkable field) and not having been completed before (if the onlyOnce field is true). In order to search for a new quest, a pawn must work for a certain number of days. When a quest is found, the player will be notified and sent a letter to inform them that the quest is available.</description>
-  <packageId>EEG.Dungeon.and.Ruins</packageId>
+  <url>https://github.com/Accurexx/MedievalOverhaul-TreasureHunter</url>
+  <description>Blep</description>
+  <packageId>EEG.TreasureHunter</packageId>
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
@@ -16,4 +16,12 @@
       <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
   </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+	<li>DankPyon.Medieval.Overhaul</li>
+  </loadAfter>
+	<forceLoadAfter>
+		<li>DankPyon.Medieval.Overhaul</li>
+	</forceLoadAfter>
 </ModMetaData>
