@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\2969415523\1.5\Assemblies\TreasureHunter.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\2969415523\1.5\Source\obj\Debug\TreasureHunter.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\2969415523\1.5\Source\obj\Debug\TreasureHunter.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\2969415523\1.5\Source\obj\Debug\TreasureHunter.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\2969415523\1.5\Source\obj\Debug\TreasureHunter.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TreasureHunter-Core\1.5\Source\obj\Debug\TreasureHunter.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TreasureHunter-Core\1.5\Source\obj\Debug\TreasureHunter.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TreasureHunter-Core\1.5\Source\obj\Debug\TreasureHunter.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TreasureHunter-Core\1.5\Assemblies\QuestFinder.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TreasureHunter-Core\1.5\Source\obj\Debug\QuestFinder.dll
