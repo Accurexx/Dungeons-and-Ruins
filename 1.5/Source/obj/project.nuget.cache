@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQlLTQ3tzwYRSweyD0U3RXATM/3CbShCAGTeY2akCtedOTW+4665/Fvq0tQWLFF7ul1192LYDd7tfTUGeLlfTg==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\TreasureHunter-Core\\1.5\\Source\\TreasureHunter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fake1\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512",
+    "C:\\Users\\fake1\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4063\\krafs.rimworld.ref.1.5.4063.nupkg.sha512"
+  ],
+  "logs": []
+}
